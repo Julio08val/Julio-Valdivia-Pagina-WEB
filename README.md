@@ -1,5 +1,4 @@
-# Julio-Valdivia
-
+<html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -76,11 +75,25 @@
             padding: 10px;
             background: rgba(255,255,255,0.1);
             border-radius: 8px;
+            transition: background 0.3s ease;
+        }
+
+        .contact-item:hover {
+            background: rgba(255,255,255,0.2);
         }
 
         .contact-item i {
             margin-right: 10px;
             font-size: 18px;
+        }
+
+        .contact-link {
+            color: white;
+            text-decoration: none;
+        }
+
+        .contact-link:hover {
+            text-decoration: underline;
         }
 
         /* Columna derecha - Contenido */
@@ -172,11 +185,11 @@
                 <div class="contact-info">
                     <div class="contact-item">
                         <i>📧</i>
-                        <span>https://www.linkedin.com/in/julio-valdivia-17526b28b/</span>
+                        <span>julio@email.com</span>
                     </div>
                     <div class="contact-item">
                         <i>📱</i>
-                        <span>+51 947 787 054</span>
+                        <span>+51 999 999 999</span>
                     </div>
                     <div class="contact-item">
                         <i>📍</i>
@@ -184,7 +197,9 @@
                     </div>
                     <div class="contact-item">
                         <i>🔗</i>
-                        <span>linkedin.com/in/julio-valdivia-17526b28b/</span>
+                        <a href="https://www.linkedin.com/in/julio-valdivia-17526b28b/" class="contact-link" target="_blank">
+                            linkedin.com/in/julio-valdivia
+                        </a>
                     </div>
                 </div>
             </div>
@@ -222,7 +237,7 @@
                 </div>
             </div>
 
-            <!-- Sección Experiencia (agregué esta sección como ejemplo) -->
+            <!-- Sección Experiencia -->
             <div class="section">
                 <h3 class="section-title">Experiencia Profesional</h3>
                 <div class="info-item">
