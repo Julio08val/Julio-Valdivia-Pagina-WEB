@@ -1,5 +1,5 @@
-# Julio-Valdivia-Pagina-WEB
-<!DOCTYPE html>
+# Julio-Valdivia
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -172,11 +172,11 @@
                 <div class="contact-info">
                     <div class="contact-item">
                         <i>📧</i>
-                        <span>julio@email.com</span>
+                        <span>https://www.linkedin.com/in/julio-valdivia-17526b28b/</span>
                     </div>
                     <div class="contact-item">
                         <i>📱</i>
-                        <span>+51 999 999 999</span>
+                        <span>+51 947 787 054</span>
                     </div>
                     <div class="contact-item">
                         <i>📍</i>
@@ -184,7 +184,7 @@
                     </div>
                     <div class="contact-item">
                         <i>🔗</i>
-                        <span>linkedin.com/in/juliovaldivia</span>
+                        <span>linkedin.com/in/julio-valdivia-17526b28b/</span>
                     </div>
                 </div>
             </div>
