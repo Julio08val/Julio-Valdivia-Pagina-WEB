@@ -185,11 +185,11 @@
                 <div class="contact-info">
                     <div class="contact-item">
                         <i>📧</i>
-                        <span>julio@email.com</span>
+                        <span>julio.valdivia.cahuana@ucsp.edu.pe</span>
                     </div>
                     <div class="contact-item">
                         <i>📱</i>
-                        <span>+51 947 787 054</span>
+                        <span>+51 999 999 999</span>
                     </div>
                     <div class="contact-item">
                         <i>📍</i>
@@ -198,7 +198,7 @@
                     <div class="contact-item">
                         <i>🔗</i>
                         <a href="https://www.linkedin.com/in/julio-valdivia-17526b28b/" class="contact-link" target="_blank">
-                            linkedin.com/in/julio-valdivia
+                            LinkedIn: julio-valdivia
                         </a>
                     </div>
                 </div>
@@ -241,7 +241,7 @@
             <div class="section">
                 <h3 class="section-title">Experiencia Profesional</h3>
                 <div class="info-item">
-                    <div class="info-label">Empresa A&J</div>
+                    <div class="info-label">Empresa ABC</div>
                     <div class="info-content">2022 - Presente</div>
                     <p>Asistente de Gerencia Comercial</p>
                 </div>
