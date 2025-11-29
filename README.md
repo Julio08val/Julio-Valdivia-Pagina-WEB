@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -189,7 +189,7 @@
                     </div>
                     <div class="contact-item">
                         <i>📱</i>
-                        <span>+51 999 999 999</span>
+                        <span>+51 947 787 054</span>
                     </div>
                     <div class="contact-item">
                         <i>📍</i>
@@ -241,7 +241,7 @@
             <div class="section">
                 <h3 class="section-title">Experiencia Profesional</h3>
                 <div class="info-item">
-                    <div class="info-label">Empresa ABC</div>
+                    <div class="info-label">Empresa A&J</div>
                     <div class="info-content">2022 - Presente</div>
                     <p>Asistente de Gerencia Comercial</p>
                 </div>
